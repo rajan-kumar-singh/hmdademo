@@ -1,0 +1,76 @@
+.mapboxgl-ctrl{
+  display: none !important;
+}
+.css-12i7wg6-MuiPaper-root-MuiDrawer-paper{
+  background-color: transparent !important;
+  border-right: 0px !important;
+}
+.MuiDrawer{
+  background-color: transparent !important;
+  border-right: 0px !important;
+}
+.css-1m1cnyu-MuiButtonBase-root-MuiIconButton-root{
+  padding: 2px !important;
+}
+.css-jedpe8-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input{
+  padding:5px !important;
+}
+.css-1n4twyu-MuiInputBase-input-MuiOutlinedInput-input{
+  padding:5px !important
+}
+.glassBackground{
+  background: rgba(255, 255, 255, 0.2) !important;
+  border-radius: 4px !important;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) !important;
+  backdrop-filter: blur(20px) !important;
+  -webkit-backdrop-filter: blur(20px) !important;
+}
+.glassBackgroundHover:hover{
+  cursor: pointer;
+  background: rgba(255, 255, 255, 0.2) !important;
+  border-radius: 8px !important;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) !important;
+  backdrop-filter: blur(20px) !important;
+  transition: all 0.5s;
+  -webkit-backdrop-filter: blur(20px) !important;
+}
+.DarkGlassBackground{
+  background: rgba(0, 0, 0, 0.2) !important;
+  border-radius: 8px !important;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) !important;
+  backdrop-filter: blur(20px) !important;
+  -webkit-backdrop-filter: blur(20px) !important;
+}
+.css-1oav2mo-MuiToolbar-root{
+  padding-left:8px !important;
+}
+.css-1l8j5k8{
+  background-color: transparent !important;
+}
+.css-178cqt3-MuiButtonBase-root-MuiListItemButton-root{
+  padding-top: 0px !important; 
+  padding-bottom: 0px !important; 
+}
+.css-uow4ny-MuiButtonBase-root-MuiListItemButton-root{
+  padding-top: 0px !important; 
+  padding-bottom: 0px !important; 
+}
+/* .css-4t3x6l-MuiPaper-root-MuiDrawer-paper{
+  background: rgba(255, 255, 255, 0.2) !important;
+  border-radius: 0px 8px 8px 0px !important;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) !important;
+  backdrop-filter: blur(20px) !important;
+  -webkit-backdrop-filter: blur(20px) !important;
+  padding-top: 8px !important;
+} */
+.css-1ih7ec9-MuiPaper-root-MuiAppBar-root{
+  box-shadow: none !important;
+}
+.MuiAppBar{
+  box-shadow: none !important;
+}
+@media (min-width:600px) {
+  .apbar{
+    width: 100% !important;
+  }
+}
